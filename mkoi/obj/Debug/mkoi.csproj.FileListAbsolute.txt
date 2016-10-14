@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\bin\Debug\mkoi.exe.config
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\bin\Debug\mkoi.exe
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\bin\Debug\mkoi.pdb
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.Form1.resources
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.exe
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.pdb
