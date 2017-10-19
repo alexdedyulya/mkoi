@@ -7,3 +7,18 @@ C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.Properties.Resources.resou
 C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.csproj.GenerateResource.Cache
 C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.exe
 C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.pdb
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.Form2.resources
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.form.Form3.resources
+C:\Users\Lenovo\Desktop\mkoi\mkoi\mkoi\obj\Debug\mkoi.form.Form4.resources
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\bin\Debug\mkoi.exe.config
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\obj\Debug\mkoi.exe
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\obj\Debug\mkoi.pdb
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\bin\Debug\mkoi.exe
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\bin\Debug\mkoi.pdb
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\obj\Debug\mkoi.csprojResolveAssemblyReference.cache
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\obj\Debug\mkoi.Form1.resources
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\obj\Debug\mkoi.Form2.resources
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\obj\Debug\mkoi.form.Form3.resources
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\obj\Debug\mkoi.form.Form4.resources
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\obj\Debug\mkoi.Properties.Resources.resources
+D:\учеба\4 курс 1 сем\МКОИ\mkoi\mkoi\mkoi\obj\Debug\mkoi.csproj.GenerateResource.Cache
